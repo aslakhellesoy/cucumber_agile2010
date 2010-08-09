@@ -1,0 +1,6 @@
+# bundler-1.0.0.rc.1 or higher
+source "http://rubygems.org"
+
+gem "rake", "0.8.7"
+gem "cucumber", "0.8.5"
+gem "rspec", "2.0.0.beta.19"
